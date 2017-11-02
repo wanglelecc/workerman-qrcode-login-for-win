@@ -1,0 +1,11 @@
+{
+    "name"  : "wanglelecc/workerman-qrcode-login-for-win",
+    "keywords": ["distributed","communication"],
+    "homepage": "http://www.wanglele.cc",
+    "license" : "MIT",
+    "require": {
+        "workerman/gateway-worker-for-win" : ">=3.0.0",
+        "workerman/gatewayclient": "^3.0",
+        "endroid/qrcode": "^2.4"
+    }
+}
